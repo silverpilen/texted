@@ -1,6 +1,26 @@
-.gradle
+# Build output
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+target/
+out/
+build
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.gradle/
+*.javae
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
+/.idea/*
 .DS_Store
 /build

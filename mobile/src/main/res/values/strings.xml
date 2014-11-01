@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">TextTV</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="content">Content</string>
+    <string name="page_nr">100</string>
     <string name="action_settings">Settings</string>
 
 </resources>
